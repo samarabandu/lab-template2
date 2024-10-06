@@ -6,3 +6,5 @@ Edit `client/index.html` file to add necessary HTML and add links to your CSS fi
 Edit `server/server.js` file to add JavaScript code that implements your REST API.
 
 Put all your front-end assets in `client/img` folder and back-end assets in `server/data` folder. Git will ignore content in these folders and you must copy them separately to the server when you are deploying.
+
+If you use any AI tools, please record the prompts in the file `ai-prompts.txt`. Commit history of this file must match the code changes in your repository.
